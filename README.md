@@ -1,0 +1,2 @@
+# Image-Editor
+Image Editor is written using basic opencv and tkinter in python. The concept is to build and develop an interactive 2D Image Manipulation Editor. The editor comprises several basic image manipulation features such as loading image, geometric transformation of image, color conversion such as gray scale to rgb color to hsv. Thus, the theme used is a simple paint adding only the color conversion features.
